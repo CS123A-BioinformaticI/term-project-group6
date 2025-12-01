@@ -8,6 +8,9 @@ It includes data preprocessing, model training, evaluation, and visualization of
 
 ## Run in Google Colab
 
-Download the lung_cancer_severity.ipynb file from the repo.
-Upload the file to a new Google Colab Notebook.
-Select Run All at the top.
+1. Download the lung_cancer_severity.ipynb file from the repo.
+
+2. Upload the file to a new Google Colab Notebook.
+
+3. Select Run All at the top.
+
