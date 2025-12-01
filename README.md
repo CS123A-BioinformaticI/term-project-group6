@@ -12,5 +12,6 @@ It includes data preprocessing, model training, evaluation, and visualization of
 
 2. Upload the file to a new Google Colab Notebook.
 
-3. Select Run All at the top.
+3. Select "Run all" at the top.
+
 
